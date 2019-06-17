@@ -1,0 +1,53 @@
+h1{
+    background-color: #858585;
+    height: 70px;
+    line-height: 70px;
+    padding-left: 25px;
+    color: white;
+    margin:0;
+}
+h2{
+    width: 115px;
+    height: 115px;
+    background-color: #d6d6d6;
+    margin: 0;
+    border-bottom: 1px solid white;
+}
+span{
+    font-weight: bold;
+}
+ul{
+    overflow: hidden;
+    padding-top: 0;
+    padding-left: 0;
+}
+li{  
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+}
+.info{
+    display: flex;
+    border-bottom: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
+.tel{
+    display: flex;
+    border-bottom: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
+.skill{
+    display: flex;
+    border-bottom: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
+.diploma{
+    display: flex;
+    border-bottom: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
+.project{
+    display: flex;
+    border-bottom: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
